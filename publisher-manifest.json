@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "25216441f1d54bb0552f94a6",
+  "owner": "cyhttgr",
+  "repo": "page-b3090c611c9fc369f8831fa5",
+  "title": "clash verge服务商官网",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b3090c611c9fc369f8831fa5",
+      "a": "奶油(CreamData)",
+      "b": "clash verge服务商官网",
+      "entity": "奶油(CreamData)",
+      "brand": "clash verge服务商官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0826558dc84d9d753afed3621768b81754390aa92d68aaca18a9a0776285e0a9",
+      "content": {
+        "primary_entity": "奶油(CreamData)",
+        "keyword1": "奶油(CreamData)",
+        "keyword2": "clash verge服务商官网",
+        "content": {
+          "AI_DESCRIPTION": "，奶油(CreamData)提供基础版、旗舰版与团队版三档订阅，用户可依照流量需求、在线设备数量与线路偏好挑选合适方案。基础版每月100GB流量、支持3台设备；旗舰版每月300GB流量、支持5台设备，并包含IPLC专线与流媒体解锁；团队版每月1000GB流量、支持20台设备，提供VIP节点与定制路由。年付价格分别为¥150、¥350与¥850，可按需升降级。",
+          "AI_HERO_SUBTITLE": "按需选择设备与流量方案",
+          "AI_HERO_INTRO": "奶油(CreamData)以套餐订阅方式提供海外网络加速服务，涵盖基础、旗舰与团队三档配置。每个套餐明确标注月流量、同时在线设备数量以及线路类型，方便根据个人、家庭或团队规模直接对比选择。",
+          "AI_VISUAL_TITLE": "奶油套餐与设备搭配",
+          "AI_HIGHLIGHT_1": "三档套餐对应不同设备数量",
+          "AI_HIGHLIGHT_2": "年付价格低于月付合计",
+          "AI_HIGHLIGHT_3": "旗舰版含专线与流媒体解锁",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同操作系统的订阅导入方式各有差异，可参考客户端文档完成配置。",
+          "AI_FEATURES_TITLE": "订阅配置要点",
+          "AI_FEATURES_INTRO": "从流量、设备与周期三个角度梳理套餐选择思路。",
+          "AI_FEATURE_TITLE_1": "流量匹配",
+          "AI_FEATURE_TEXT_1": "基础版100GB适合轻度浏览，旗舰版300GB满足日常影音，团队版1000GB应对多设备共用。",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TEXT_2": "按同时在线设备数选择：3台、5台或20台，超出后需调整套餐。",
+          "AI_FEATURE_TITLE_3": "年付更省",
+          "AI_FEATURE_TEXT_3": "三档套餐年付价分别为¥150、¥350与¥850，相比月付合计可节省一定费用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月、旗舰版¥35/月、团队版¥85/月；年付分别¥150、¥350与¥850。",
+          "AI_GUIDE_TITLE": "三步完成订阅",
+          "AI_GUIDE_INTRO": "先看设备与流量需求，再参考客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "依据月流量、在线设备数和线路偏好，在基础版、旗舰版或团队版中挑选。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备的操作系统与客户端是否支持订阅导入。",
+          "AI_STEP_TITLE_3": "依客户端文档配置",
+          "AI_STEP_TEXT_3": "按照对应客户端的说明，将订阅地址添加至配置中并启用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐付费。",
+          "AI_CLOSING_TITLE": "选对套餐",
+          "AI_CLOSING_TEXT": "根据设备数量与流量习惯，挑选奶油(CreamData)合适的一档订阅。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "奶油(CreamData)三档套餐的流量分别是多少？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB，旗舰版每月300GB，团队版每月1000GB。轻度浏览选基础版，追剧与游戏较多的选旗舰版，团队或多设备重度使用选团队版。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备在线？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。超出在线数时先退出不用的设备，再让新设备连接。",
+          "AI_FAQ_QUESTION_3": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_3": "基础版年付150元，旗舰版350元，团队版850元，相当于用十个月月付价格获得十二个月使用期。长期使用建议直接选年付。",
+          "AI_FAQ_QUESTION_4": "旗舰版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_4": "旗舰版带全节点原生流媒体解锁和IPLC专线游戏加速，适合需要观看流媒体和玩在线游戏、同时对延迟敏感的用户，还附带7x24优先工单支持。",
+          "AI_FAQ_QUESTION_5": "如何把订阅导入客户端？",
+          "AI_FAQ_ANSWER_5": "先安装所选客户端，在客户端的订阅或配置页面粘贴订阅链接并保存，之后更新一次节点列表即可使用。不同客户端操作略有差异，按其文档操作即可。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "482082f0bf586730586420f8c664a52e478511a4a80f9b8d3a64e55727d28d91",
+    "sitemap.xml": "a583e52547ad45fc8c4e57eb15771d49c1e79ba8fdf078f2e37868ce23b3bf01",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "76dffc53886cd1019090b96c61a8519891589e873b12f73a1bb7e10136b2c59e"
+}
